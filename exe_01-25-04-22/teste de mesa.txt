@@ -1,0 +1,10 @@
+Digite (QTDEMIN)
+Digite (QTDEMAX)
+Faça estoquemedio=(QTDEMIN+QTDEMAX)/2
+Mostre o estoquemedio
+Filmalgoritmo
+
+teste de mesa
+
+qtdemin    qtdemax   estoquemedio
+15         200       107,5
